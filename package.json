@@ -1,0 +1,27 @@
+{
+  "name": "jspellman814.github.io",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "build": "npm install && gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspellman814/jspellman814.github.io.git"
+  },
+  "author": "john spellman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jspellman814/jspellman814.github.io/issues"
+  },
+  "homepage": "https://github.com/jspellman814/jspellman814.github.io#readme",
+  "devDependencies": {
+    "breakpoint-sass": "^2.7.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0"
+  }
+}
