@@ -8,7 +8,7 @@ gulp.task('sass', function () {
     return gulp.src('sass/*.scss')
         .pipe(sourcemaps.init())
         .pipe(sass({
-            includePaths: ['node_modules/breakpoint-sass/stylesheets']
+            includePaths: ['node_modules/breakpoint-sass/stylesheet']
         }))
         .pipe(prefix('last 2 versions'))
         .pipe(sourcemaps.write())
