@@ -1,3 +1,3 @@
 # jspellman814.github.io
 
-Built from [jspellman814/cv](https://github.com/jspellman814/cv).
+Built with [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv).
