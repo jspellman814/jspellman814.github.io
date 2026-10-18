@@ -10,5 +10,5 @@ Built with [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv).
 - Start local development server with `npm run start`
 - Visit local site and view page source
 - Copy page source to `index.html`
-- Find/replace (in the whole project) `/_next/static` with `.next/static`
+- Find/replace (in the whole project) `/.next/static` with `.next/static`
 - Commit and push
